@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gopi:
+  - apiVersion: v2
+    appVersion: train
+    created: "2025-10-29T09:10:09.120680824Z"
+    description: A Helm chart for Kubernetes
+    digest: 9ab4353811e8a3f46679de441528644a7b02605592b066a6d64305ea24658ce3
+    name: gopi
+    type: application
+    urls:
+    - gopi-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-29T09:10:09.120211191Z"
